@@ -22,6 +22,7 @@ db.movies.find(
   }
 )
 ```
+Screenshots:
 ### Query 2:
 (2) Find all movies after year 2014 with imdb rating greater than 9. An example query result is shown in the following screenshot.
 ```
@@ -38,3 +39,4 @@ db.movies.find(
   }
 );
 ```
+Screenshots: 
